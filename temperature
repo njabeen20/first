@@ -1,0 +1,7 @@
+Body_temperature= input("Enter you body temperature")
+Body_temperature = 98
+if "98" in (Body_temperature) :
+    print("You are fine")
+  
+elif Body_temperature>98 :
+    print("you have fever")
